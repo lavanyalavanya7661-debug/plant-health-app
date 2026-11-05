@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "778753401530",
+    "project_id": "plant-health-scanner-3f070",
+    "storage_bucket": "plant-health-scanner-3f070.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778753401530:android:3b12d1dabebad48c059883",
+        "android_client_info": {
+          "package_name": "com.example.plant_health_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778753401530-pae9n0i56gdgvk2d9964rg84lagnu26e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3oVTAazTpqw0yv_C5KdRe9pDgZ7wUiRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778753401530-pae9n0i56gdgvk2d9964rg84lagnu26e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778753401530-817hbl1ggl0v9hc2vfajlvc8dfqkf44h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantHealthApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
